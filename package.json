@@ -1,0 +1,13 @@
+{
+  "name": "TypeScript-Handbook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gim YoungPhil <youngphil.gim@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  }
+}
